@@ -2,7 +2,7 @@
 #  Script Name:  Bulk_IP_to_DNS_Name.ps1
 #  Date:         2023/06/30
 #  Programmer:   https://github.com/elnao
-#  Purpose:      Extract IP addresses from a text file and resolve them to IP addresses.
+#  Purpose:      Extract IP addresses from a text file and resolve them to DNS names.
 #  Prerequisite: Input file must be named C:\temp\IPlist.txt               
 #################################################################################################################
 
